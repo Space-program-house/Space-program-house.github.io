@@ -2425,7 +2425,7 @@ p.copyright a:hover {
     width: 100%;
 }
 
-.w3layouts_footer_grid input[type="email"] {
+.w3layouts_footer_grid input[type="text"] {
     outline: none;
     padding: 15px 15px;
     color: #fff;
