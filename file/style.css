@@ -553,7 +553,7 @@ a.rslides_nav.rslides1_nav.next {
 }
 
 ul#slider li:nth-child(1) {
-    background: url(https://cdn.luogu.com.cn/upload/image_hosting/e87h2foc.png)no-repeat 0px 0px;
+    background: url(./e87h2foc.png)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
